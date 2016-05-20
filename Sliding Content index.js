@@ -1,5 +1,5 @@
 var index = 0;
-var maxIndex = 4;
+var maxIndex = 250;
 
 function updateBtnState() {
   if (index == 0) {
